@@ -1,0 +1,38 @@
+[
+   {
+      "id":1,
+      "specialize":"Neurology",
+      "description":"Neurology is the branch of medicine concerned with the study and nervous system.",
+      "images":"https://i.ibb.co/SvTJhXk/01.jpg"
+   },
+   {
+      "id":2,
+      "specialize":"Cardiology",
+      "description":"Cardiology is the study and treatment of disorders of the heart and the blood vessels.",
+      "images":"https://i.ibb.co/rGrD4K5/02.jpg"
+   },
+   {
+      "id":3,
+      "specialize":"Radiology",
+      "description":"Radiology is a branch of medicine that uses imaging technology to diagnose and treat disease",
+      "images":"https://i.ibb.co/nwTvwhj/03.jpg"
+   },
+   {
+      "id":4,
+      "specialize":"Orthopaedic",
+      "description":"Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions",
+      "images":"https://i.ibb.co/kJF8GWQ/04.jpg"
+   },
+   {
+      "id":5,
+      "specialize":"Dental",
+      "description":"The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial ",
+      "images":"https://i.ibb.co/cNsLzmg/Man-having-teeth-examined-at-dentists-Overview-of-dental-caries-prevention.jpg"
+   },
+   {
+      "id":6,
+      "specialize":"Lab Test",
+      "description":"A medical procedure that involves testing a sample of blood, urine, or other substance from the body",
+      "images":"https://i.ibb.co/6RMywzS/06.jpg"
+   }
+]

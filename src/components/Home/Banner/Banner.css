@@ -1,0 +1,10 @@
+.banner{
+    background-image: url("../../../images/banner/02.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 99vw;
+    color: rgb(189, 39, 39);
+  
+}

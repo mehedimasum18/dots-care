@@ -1,0 +1,13 @@
+.about{
+    background-image: url("../../../images/banner/03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.sub_head{
+   font-weight: bolder;
+   color: #FE505A;
+}
+.about_us p{
+    color: #09928bc9;
+}
